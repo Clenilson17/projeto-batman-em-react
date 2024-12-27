@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+
+h1{
+    position: relative;
+    left: 40%;
+    color: #d21617;
+}
+
+
+
+
+
+.banner4{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYxZL53QsHBQ-gbYLxdIBF3z2_0t1t7BX8w&usqp=CAU');
+}
+
+.banner5{
+    background-image: url('https://s2-g1.glbimg.com/P6-Gw0KmcFCO3ZHlSX06vVGdB0Y=/0x0:6000x4000/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/U/1UvLUASZAevRCb1TBygQ/the-batman-robert-pattinson.jpeg');
+}
+
+.banner6{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kBQxIGjDFRGuWqk5hbCe-rM6wwlJcdeaDw&usqp=CAU');
+}
+
+.banner7{
+    background-image: url('https://cdn.ome.lt/qASFXip8OAwjt1uFOZV2YwNLuEw=/570x0/smart/uploads/conteudo/fotos/bateminha.png');
+}
+
+.banner8{
+    background-image: url('https://universoheroico.com.br/wp-content/uploads/2022/03/Comissario-Gordon-e-o-Batman.jpg');
+}
+
+.banner9{
+    background-image: url('https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/28/the_batman_matt_reeves-21955686.jpg');
+}
+
+.banner10{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbgxZ7Er7jYg-dLmOTntrAsBJOA8ZSYWjvA&usqp=CAU');
+}
+
+.banner11{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92U8b8-7ncsvqYGOSho2s3hs6c9JLoXm4GQ&usqp=CAU');
+}
+
+.banner12{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8X8y5Emt1MF_ppQX4q4rnE0SupJZBO8MJ_J6W7d2z5Xwj6GoLZLHdCx985khF1Lpr73E&usqp=CAU');
+}
+
+
+
+.cardf{
+    position: relative;
+    bottom: 15%;
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: 50% 50%;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 20px 10px ;
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Kdam Thmor Pro', sans-serif; 
+}
+
+.foto-content{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 20px;
+    column-gap: 40px;
+}
+
+

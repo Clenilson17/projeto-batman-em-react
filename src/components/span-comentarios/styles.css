@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+
+.spancomentario{
+    display: flex;
+    align-items: center;
+    position: relative;
+    right: 1%;
+    top: 80vh;
+    flex-direction: column;
+    color: white;
+    font-family: 'Kdam Thmor Pro', sans-serif; 
+}
